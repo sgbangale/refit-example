@@ -77,6 +77,8 @@ public class App
 }
 ```
 
+I have added both example ConsoleApp and WebAPI. Please feel free to check both.
+
 ## Pros of Using Refit
 
 - **Type Safety**: Ensures compile-time checking, reducing runtime errors.
