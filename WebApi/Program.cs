@@ -17,9 +17,6 @@ app.MapGet("/", async (IDogService _dogService) => {
 
 app.Run();
 
-
-
-
 public interface IDogService
 {
     // Dog Service GET Breed image API
